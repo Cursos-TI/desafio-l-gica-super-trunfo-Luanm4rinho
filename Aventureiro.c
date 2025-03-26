@@ -1,5 +1,5 @@
 #include <stdio.h>
-//testado
+
 // Programa Super Trunfo de cidades com menu interativo para comparar atributos.
 
 int main() {
